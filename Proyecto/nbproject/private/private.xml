@@ -3,9 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/skype/Downloads/ProyectoISW-main/ProyectoISW-main/Proyecto/src/proyecto/AdministerCheck.java</file>
-            <file>file:/C:/Users/skype/Downloads/ProyectoISW-main/ProyectoISW-main/Proyecto/src/proyecto/Login.java</file>
-            <file>file:/C:/Users/skype/Downloads/ProyectoISW-main/ProyectoISW-main/Proyecto/src/proyecto/RegisterUser.java</file>
+            <file>file:/home/cesar-rodriguez/NetBeansProjects/ProyectoISW-main/Proyecto/src/proyecto/IniciarSesion.java</file>
+            <file>file:/home/cesar-rodriguez/NetBeansProjects/ProyectoISW-main/Proyecto/src/proyecto/RegistrarUsuario.java</file>
+            <file>file:/home/cesar-rodriguez/NetBeansProjects/ProyectoISW-main/Proyecto/src/proyecto/MenuPrincipal.java</file>
+            <file>file:/home/cesar-rodriguez/NetBeansProjects/ProyectoISW-main/Proyecto/src/proyecto/NewJPanel.java</file>
         </group>
     </open-files>
 </project-private>
